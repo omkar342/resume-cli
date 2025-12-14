@@ -9,14 +9,14 @@ const resume = {
   title: 'Full Stack Developer',
   contact: {
     email: 'omkarjadhav095@gmail.com',
-    phone: '+91 8329733453'
+    phone: '+91 832973XXXX'
   },
   social: {
     linkedin: 'https://www.linkedin.com/in/omkar-jadhav-7809b7196/',
     github: 'https://github.com/omkar342', 
     portfolio: 'https://omkar-s-modern-portfolio.vercel.app/' 
   },
-  about: 'Full Stack Developer with expertise in Javascript, Python, Go, ReactJs, and Cloud Platforms (AWS, Azure). Passionate about building scalable backend services and optimizing UI performance.',
+  about: 'Full-Stack Developer with 2 years of experience in building scalable web applications using the MERN stack. Skilled in React, TypeScript, NodeJS, Express, SQL/NoSQL databases, and GraphQL. Experienced in developing responsive front-end interfaces, robust back-end services, and optimized APIs. Worked with AWS, Azure (including Azure Functions for serverless development), and IaC to automate resource creation and management. Proficient with Docker and CI/CD workflows to ensure reliable deployments. Strong problem-solving foundation with 400+ DSA questions solved. Focused on writing clean, maintainable code and contributing to large-scale engineering teams.',
   skills: [
     'ReactJs', 'Redux', 'HTML/CSS', 'Javascript/Typescript', 
     'NodeJs/ExpressJs', 'SQL (MySQL)', 'NoSQL (MongoDB)', 
